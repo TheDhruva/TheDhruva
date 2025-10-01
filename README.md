@@ -51,11 +51,11 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=thedhruva07&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-streak-stats.vercel.app/?user=thedhruva07&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=TheDhruva&show_icons=true&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-streak-stats.vercel.app/?user=TheDhruva&theme=tokyonight" />
 </p>
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thedhruva07&layout=compact&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheDhruva&layout=compact&theme=tokyonight" />
 </p>
 ---
 
